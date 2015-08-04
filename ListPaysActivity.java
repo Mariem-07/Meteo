@@ -6,9 +6,9 @@ import android.support.v4.app.FragmentActivity;
 
 /**
  * Ce tuto traite l'utilisation des fragments sous ANDROID. Pour d'avantage
- * d'informations : f.ferjani.farouk@gmail.com
+ * d'informations : somranimariem8@gmail.com
  * 
- * @author Farouk FERJANI
+ * @author Mariem SOMRANI
  * 
  */
 public class ListPaysActivity extends FragmentActivity implements
